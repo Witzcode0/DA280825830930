@@ -1,0 +1,13 @@
+source code -> compile/interpreter(byte code) -> binary(Machin level)
+
+line - 1
+line - 2
+line - 3
+
+source code
+byte code
+machine code
+compiler
+interpriter
+IDE
+GUI
