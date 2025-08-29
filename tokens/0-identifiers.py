@@ -25,6 +25,9 @@
 # PascalCase
 # AreaOfCircle, FirstName
 
+# CONSTANT
+# PI = 3.14
+
 
 # Valid Identifiers
 
