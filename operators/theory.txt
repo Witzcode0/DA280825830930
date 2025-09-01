@@ -1,0 +1,65 @@
+Python operators are special symbols or keywords used to perform operations on one or more operands (variables, values, or expressions). They are categorized into several types:
+
+
+Example:
+res = num1 + num2
+
+res, num1, num2 : operands
+=, + : operators
+
+
+
+Arithmetic Operators:
+Used for mathematical calculations.
++ (Addition)
+- (Subtraction)
+* (Multiplication)
+/ (Division)
+% (Modulo - returns the remainder)
+** (Exponentiation)
+// (Floor Division - returns the integer part of the quotient)
+---------------------------------------------------------------------------------
+Assignment Operators:
+Used to assign values to variables.
+= (Assignment)
++= (Add and assign)
+-= (Subtract and assign)
+*= (Multiply and assign)
+/= (Divide and assign)
+%= (Modulo and assign)
+**= (Exponentiation and assign)
+//= (Floor division and assign)
+---------------------------------------------------------------------------------
+Comparison (Relational) Operators:
+Used to compare two values and return a Boolean result (True or False). 
+== (Equal to)
+!= (Not equal to)
+> (Greater than)
+< (Less than)
+>= (Greater than or equal to)
+<= (Less than or equal to)
+---------------------------------------------------------------------------------
+Logical Operators:
+Used to combine conditional statements.
+and (Logical AND)
+or (Logical OR)
+not (Logical NOT)
+---------------------------------------------------------------------------------
+Identity Operators:
+Used to check if two variables refer to the same object in memory. 
+is (Returns True if both variables are the same object)
+is not (Returns True if both variables are not the same object)
+---------------------------------------------------------------------------------
+Membership Operators:
+Used to test if a sequence contains a specific value.
+in (Returns True if a value is present in the sequence)
+not in (Returns True if a value is not present in the sequence)
+---------------------------------------------------------------------------------
+Bitwise Operators:
+Used to perform operations at the binary (bit) level on integers. 
+& (Bitwise AND)
+| (Bitwise OR)
+^ (Bitwise XOR)
+~ (Bitwise NOT)
+<< (Left shift)
+>> (Right shift)
