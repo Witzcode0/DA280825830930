@@ -144,3 +144,10 @@ fullname = "     brijesh     gondaliya     "
 
 # print("brijesh go\\ndaliya")
 # print(r"brijesh go\ndaliya")
+
+# https://www.ascii-code.com/
+
+num = 65
+# print(chr(num))
+# print(ord('A')) # return ascii value
+# print(ord('a')) # return ascii value
