@@ -1,0 +1,57 @@
+Q1] Identify the tokens in the following line of Python code:
+
+result = a + b * (c - d)
+
+
+Q2] Predict the output of this code and explain the role of operators:
+
+x = 10
+y = 3
+print(x // y, x % y)
+
+Q3] Write a Python program that prints a Fibonacci series of n numbers.
+
+Q4] What will be the output of this code and why?
+
+a, b = 5, 7
+if a > b:
+    print("A is greater")
+elif a == b:
+    print("Equal")
+else:
+    print("B is greater")
+
+Q5] Write a program using a for loop to print the first 10 even numbers.
+
+Q6] Using a while loop, calculate the sum of digits of the number 9875.
+
+Q7] Given a list: numbers = [2, 4, 6, 8, 10]
+
+    - Write code to calculate the sum of all elements.
+    - Insert 12 at the end and print the updated list.
+
+Q8] Write a program that removes all duplicate elements from this list:
+    - data = [1, 2, 2, 3, 4, 4, 5]
+
+Q9] Given a tuple: t = (10, 20, 30, 40, 50)
+
+    - Access the third element.
+    - Try to modify the second element and explain what happens.
+
+Q10] Given a dictionary: student = {"name": "Amit", "age": 21, "marks": 88}
+
+    - Write code to print the value of "marks".
+    - Add a new key "city" with any value.
+
+Q11] Write a program that takes a string as input and checks whether it is a palindrome or not.
+
+Q12] Given a string: text = "programming in python is fun"
+
+    - Count the number of vowels.
+    - Count the number of words.
+
+Q13] Write a program to find the frequency of each character in a string.
+
+Q14] Write a Python program to find the first non-repeating character in a given string.
+
+Q15] Write a Python program that takes a string and prints it in reverse order without using slicing ([::-1]).
