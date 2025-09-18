@@ -11,7 +11,7 @@
 # function_name(val1, val2, ...valn)
 
 # Types of function:
-# 1] Built-in function
+# 1] Built-in function: print, type, id, len, sum, min, max, ord, chr
 # 2] User-Define function
 
 
@@ -213,24 +213,24 @@ nums = [1,2,3,4,5,6,7,8,9,10]
 
 # decorators
 
-def upperCase(yoyo):
-    def inner():
-        res = yoyo().upper()
-        print("Upper: ", res)
-        return res
-    return inner
+# def upperCase(yoyo):
+#     def inner():
+#         res = yoyo().upper()
+#         print("Upper: ", res)
+#         return res
+#     return inner
 
-def swapCase(yoyo):
-    def inner():
-        res = yoyo().swapcase()
-        print("Swap: ", res)
-        return res
-    return inner
+# def swapCase(yoyo):
+#     def inner():
+#         res = yoyo().swapcase()
+#         print("Swap: ", res)
+#         return res
+#     return inner
 
-@swapCase
-@upperCase
-def text():
-    return input("Enter a str: ")
+# @swapCase
+# @upperCase
+# def text():
+#     return input("Enter a str: ")
 
-t = text()
-print(t)
+# t = text()
+# print(t)
