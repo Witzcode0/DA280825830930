@@ -2,7 +2,6 @@ Q1] Identify the tokens in the following line of Python code:
 
 result = a + b * (c - d)
 
-
 Q2] Predict the output of this code and explain the role of operators:
 
 x = 10
@@ -91,7 +90,7 @@ Q24] Given a tuple of exam scores:
    scores = (65, 70, 85, 90, 75)
    Find the average score.
 
-Q25 You have a tuple:
+Q25] You have a tuple:
     t = (1, 2, 3, 4, 5)
     Write code to access the last 3 elements of the tuple.
 
@@ -99,7 +98,7 @@ Q26] You have a dictionary of employee salaries:
     salaries = {"Amit": 50000, "Riya": 60000, "John": 55000}
     Find the employee with the highest salary.
 
-Q27] Write code to count the frequency of each word in a given list:
+Q27] Write code to count the frequency of each word in a given 
     words = ["apple", "banana", "apple", "orange", "banana", "apple"]
     Expected Output: {"apple": 3, "banana": 2, "orange": 1}
 
