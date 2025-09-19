@@ -55,3 +55,67 @@ Q13] Write a program to find the frequency of each character in a string.
 Q14] Write a Python program to find the first non-repeating character in a given string.
 
 Q15] Write a Python program that takes a string and prints it in reverse order without using slicing ([::-1]).
+
+Q16] You have a list of sales values:
+   sales = [1200, 2500, 1800, 2500, 3000, 1200, 4000]
+   Write Python code to remove duplicates while preserving the original order.
+
+Q17] Given a list of temperatures:
+   temps = [32.5, 31.8, 29.4, 35.2, 33.1]
+   Find the highest and lowest temperature using Python built-in functions.
+
+Q18] Convert a list of strings into integers:
+   data = ["10", "20", "30", "40"]
+   Expected Output: [10, 20, 30, 40]
+
+Q19] Given a list of numbers:
+   nums = [1, 2, 3, 4, 5]
+   Generate a new list where each number is squared.
+
+Q20] You have two sets of customer IDs:
+   new_customers = {101, 102, 103, 104}
+   old_customers = {103, 104, 105, 106}
+   Find customers who are only new, only old, and both.
+
+Q21] Write Python code to remove duplicates from the following list using a set:
+   data = [10, 20, 20, 30, 40, 10, 50]
+
+Q22] Given a dataset of product categories:
+   categories = ["Electronics", "Clothing", "Electronics", "Toys", "Clothing", "Books"]
+   Convert it into a set of unique categories.
+
+Q23] Write Python code to convert the following list into a tuple:
+   items = ["apple", "banana", "cherry"]
+
+Q24] Given a tuple of exam scores:
+   scores = (65, 70, 85, 90, 75)
+   Find the average score.
+
+Q25 You have a tuple:
+    t = (1, 2, 3, 4, 5)
+    Write code to access the last 3 elements of the tuple.
+
+Q26] You have a dictionary of employee salaries:
+    salaries = {"Amit": 50000, "Riya": 60000, "John": 55000}
+    Find the employee with the highest salary.
+
+Q27] Write code to count the frequency of each word in a given list:
+    words = ["apple", "banana", "apple", "orange", "banana", "apple"]
+    Expected Output: {"apple": 3, "banana": 2, "orange": 1}
+
+Q28] Convert two lists into a dictionary:
+    keys = ["id", "name", "age"]
+    values = [101, "Ramesh", 28]
+    Expected Output: {"id": 101, "name": "Ramesh", "age": 28}
+
+Q29] Update the dictionary with a new key-value pair:
+    data = {"product": "Laptop", "price": 55000}
+    Add "stock": 25.
+
+Q30] Write a function that takes a list of numbers and returns the mean (average).
+
+Q31] Write a function that takes a string and returns the count of vowels.
+
+Q32] Write a function to find the median of a list of numbers.
+
+Q33] Write a function that accepts a dictionary of student names and marks, and returns the name of the top scorer.
