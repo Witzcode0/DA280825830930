@@ -73,8 +73,8 @@
 #     print("I will be always execute.")
 # print("end")
 
-bal = 1000
-wb = int(input("Enter a amount: "))
+# bal = 1000
+# wb = int(input("Enter a amount: "))
 
 # if wb <= bal:
 #     print("Now remaining amount is : ", bal - wb)
@@ -84,5 +84,16 @@ wb = int(input("Enter a amount: "))
 # assert (wb <= bal), "Inssufincent balance."
 
 
-if wb > bal:
-    raise ValueError("Inssufincent balance.")
+# if wb > bal:
+#     raise ValueError("Inssufincent balance.")
+
+# print("start")
+# file = open("example.txt", "r")
+# print("end")
+
+# try:
+#     file = open("example.txt", "r")
+# except Exception as err:
+#     print("ERROR: ", err)
+# finally:
+#     print("Operation succefully done.")
